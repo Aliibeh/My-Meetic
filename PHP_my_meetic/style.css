@@ -1,0 +1,90 @@
+body {
+	background: url("image/background.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+header
+{
+	background: rgba(116,228,225,0.45);
+}
+
+h6
+{
+	color: rgba(255,255,255,0.5);
+}
+
+.ERROR
+{
+	color: white;
+}
+
+.logo
+{
+	width: 25%;
+	margin-left: 15%;
+	margin-top: -1%;
+}
+
+.login
+{
+	float: right;
+	margin-top: 4%;
+	margin-right: 11%;
+}
+
+#login:hover
+{
+	background-color: lightcyan;
+}
+
+#login
+{
+	border-radius: 10px;
+}
+
+.container
+{
+	margin-top: 6%;
+	width: 27%;
+	border-radius: 11px;
+}
+
+.back_form
+{
+	background-color: rgba(116,228,225,0.5);
+	border-radius: 11px;
+	padding-top: 2%;
+	padding-bottom: 3%;
+	padding-left: 4%;
+	padding-right: 5%;
+}
+
+#birth
+{
+	color: rgb(136,0,21)!important;
+}
+
+.desc
+{
+	width: 220%;
+	padding-bottom: 20%;
+}
+
+.select
+{
+	width: 45%;
+	margin-bottom: 3%;
+}
+
+nav {background:#FFF;float:right;}
+nav ul {text-align:center;}
+nav ul li {float:left;display:inline;}
+nav ul li:hover {background:#E6E6E6;}
+nav ul li a {display:block;padding:15px 25px;color:#444;}
+nav ul li ul {position:absolute;width:110px;background:#FFF;}
+nav ul li ul li {width:110px;}
+nav ul li ul li a {display:block;padding:15px 10px;color:#444;}
+nav ul li ul li:hover a {background:#F7F7F7;}
+nav ul li ul.fallback {display:none;}
+nav ul li:hover ul.fallback {display:block;}

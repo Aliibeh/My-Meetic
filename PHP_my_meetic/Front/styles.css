@@ -1,0 +1,137 @@
+body
+{
+    background: url(http://hdwallpapersrocks.com/wp-content/uploads/2013/10/Couple-romantic-mood-at-sunset-time.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.social {
+    -webkit-transform: scale(0.8);
+    
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+.bigpixi-footer-social__icon {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+}
+
+
+
+.right{
+    float: right;
+    margin-right: 3%;
+    margin-top: -280px;
+}
+
+.back
+{
+    background-color : rgba(105,105,105,0.75);
+    padding-left: 1%;
+    width: 44%;
+    height: 465px;
+    margin-left: 28%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.texte{
+    width: 463px;
+    height: 80px;
+}
+
+label{
+    font-weight: bold;
+    color: black;
+}
+
+h1, h6, h4, td, h3{
+    color: white;
+}
+
+.navbar-brand{
+    margin-right: 18%;
+    height: 150px;
+}
+
+.navbar-brand img{
+    margin-top: -49px;
+    height: 242px;
+    width: 287px;
+    margin-right: 45px;
+}
+
+.identifiant2{
+    margin-left: -5px;
+}
+
+.label{
+    margin-top: 55px;
+}
+
+.label2{
+    margin-top: 60px;
+}
+
+.bouton{
+    margin-top: 50px;
+}
+
+.photo{
+    margin-top: 70px;
+}
+
+.pseudo{
+    color: white;
+    margin-left: 145px;
+    margin-top: -100px;
+}
+
+.table2{
+    float: right;
+}
+
+.table3{
+    margin-top: 160px;
+    margin-left: 145px;
+}
+
+.home{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.titre{
+    margin-top: 80px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.blanco{
+    color: white;
+    font-weight: bold;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.right2{
+    float: right;
+    margin-top: -280px;
+    margin-right: 550px;
+    margin-top: -372px;
+}
